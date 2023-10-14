@@ -14,6 +14,7 @@ Thank you for visiting my profile, and I look forward to connecting with you!
 
 ### Connect with me:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iebrunalbant1@gmail.com)](mailto:iebrunalbant1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ebrunalbant/)
 
 ###  Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
